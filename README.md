@@ -2,7 +2,6 @@
 
 A full-stack web application for conducting live technical interviews with real-time code collaboration, secure execution, video communication, and **AI-powered resume analysis**.
 
-> ⚠️ **Team Hackathon Project (2025)** > This repository is maintained for **portfolio and learning purposes**, highlighting my personal contributions to a collaborative project.
 
 ---
 
