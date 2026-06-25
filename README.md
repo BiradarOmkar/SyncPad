@@ -81,12 +81,15 @@ npm start   # http://localhost:3002
 
 This project was built as a **team hackathon effort**, with responsibilities divided across members.
 
+
 ### My Contributions
-- AI Resume Analyzer backend using **FastAPI**
-- Resume parsing using **OCR (pytesseract, OpenCV, pdf2image)**
-- AI integration using **Ollama / Hugging Face**
-- API design, request handling, and data processing
-- Assisted with **Monaco Editor** setup and integration
+
+* Designed and implemented **REST APIs** for both Candidate and Interviewer modules
+* Designed and managed **MongoDB database schemas** for interviews, candidates, resumes, and session data
+* Implemented backend request handling, validation, and business logic
+* Integrated frontend and backend services across multiple modules
+* Participated in testing, debugging, and overall system integration
+
 
 ### Team Contributions
 - Authentication (**Clerk**)
@@ -94,7 +97,11 @@ This project was built as a **team hackathon effort**, with responsibilities div
 - Real-time video & audio (**LiveKit**)
 - Database design and integration (**MongoDB**)
 - Secure code execution & compilation (**Judge0 API**)
-- Full frontend architecture and deployment
+- AI Resume Analyzer backend using **FastAPI**
+- Resume parsing using **OCR (pytesseract, OpenCV, pdf2image)**
+- AI integration using **Ollama / Hugging Face**
+- Assisted with **Monaco Editor** setup and integration
+
 
 This repository highlights my learning and contributions while acknowledging the collaborative nature of the project.
 
